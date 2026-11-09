@@ -1,10 +1,10 @@
-# HorizonTechX_ImageGallery
+# Image Gallery
 
-A responsive, high-performance image gallery built with pure vanilla HTML5, CSS3, and modern JavaScript.
+A responsive image gallery built with plain HTML, CSS and JavaScript. No frameworks, no build step.
 
 ## Features
 
-- **Modern Glassmorphic Dark UI**: Custom-tailored dark theme with subtle glows, glassmorphism cards, and fluid typography.
+- **Glassmorphic dark UI**: dark theme with subtle glows and glassmorphism cards.
 - **Canvas Particle Network**: Lightweight 2D canvas drawing connecting particles that react gently to cursor movement, automatically pauses when tab is hidden, and disables under `prefers-reduced-motion`.
 - **Responsive Layout**:
   - Desktop: 4 columns
